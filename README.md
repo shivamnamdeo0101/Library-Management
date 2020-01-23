@@ -1,4 +1,4 @@
-# Library-Management-In-Php
+# Library-Management
 Hey This is online library management project in php , you can download and extact it and import the sql file in the databse along with this.
 
 Project Demo  : https://youtu.be/Cf4aQyHQJcY
